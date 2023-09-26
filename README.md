@@ -4,7 +4,8 @@ _This is a web scraper developed to fetch product listings from different market
 ## **Dependencies**
 
 **scrapy**  
-**pandas**  
+**requests**
+**os** 
 **json**
 
 ## **Configuration and Extensibility**
