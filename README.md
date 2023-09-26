@@ -3,7 +3,7 @@ _This is a web scraper developed to fetch product listings from different market
 
 ## **Dependencies**
 
-**scrapy**  , **requests** , **os**  , **json**
+**scrapy**  , **requests** , **os**  ,  **json**
 
 ## **Configuration and Extensibility**
 
